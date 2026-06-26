@@ -35,7 +35,7 @@ Active Directory lab designed to simulate a small business environment.
 - NTFS permissions by department
 - Group Policies and mapped network drives
 
-### [ClusterX](https://github.com/albertobayan/clusterx)
+### [ClusterX](https://github.com/albertobayan/TFG-Cluster-HA)
 
 High-availability infrastructure project.
 
