@@ -2,11 +2,11 @@
 
 Junior SOC Analyst with a background in IT Support, Systems Administration and Networking.
 
-I currently work in a Security Operations Centre (SOC), where I investigate and triage security incidents, analyse security events and indicators of compromise, and support incident management and response activities.
+I currently work in a Security Operations Centre, investigating and triaging security incidents, analysing indicators of compromise and supporting incident management and response activities.
 
-I'm especially interested in Blue Team operations, threat detection, incident response and security automation.
+My main interests are Blue Team operations, threat detection, incident response and security automation.
 
-## 🛡️ Cybersecurity & SOC
+## 🛡️ Cybersecurity
 
 * Security incident investigation and triage
 * EDR / XDR analysis
@@ -14,45 +14,46 @@ I'm especially interested in Blue Team operations, threat detection, incident re
 * Threat intelligence and reputation analysis
 * Incident management and escalation
 * Security monitoring and event analysis
-* Basic containment and remediation workflows
+* Authorised containment and remediation support
 
-## 🔧 Security Tools
+## 🔧 Technologies & Tools
+
+**Security**
 
 * Microsoft Defender for Endpoint
 * CrowdStrike
 * Palo Alto Cortex XDR
+* Threat Intelligence platforms
 * Jira
-* Freshservice
-* Microsoft Entra ID
-* Microsoft Intune
 
-## 🖥️ Systems & Infrastructure
+**Systems & Infrastructure**
 
 * Windows Server & Active Directory
-* Microsoft 365 administration
+* Microsoft 365
+* Microsoft Entra ID
+* Microsoft Intune
 * Windows & Linux
-* Networking: TCP/IP, DNS, DHCP, VLANs and VPNs
+* TCP/IP, DNS, DHCP, VLANs and VPNs
 * Ubiquiti UniFi
+* Freshservice
 * SharePoint
-* User and device management
 
 ## 📂 Featured Projects
 
-### [SentinelFlow](https://github.com/albertobayan/sentinelflow) — In Development
+### [SentinelFlow](https://github.com/albertobayan/sentinelflow)
 
-Defensive cybersecurity automation platform designed to simulate SOC detection, enrichment and response workflows.
+Python-based SOC automation platform for threat detection, IOC analysis, log monitoring, threat intelligence and incident response workflows.
 
-* Python-based security automation
 * IOC detection and classification
 * Security event parsing
 * Log ingestion and monitoring
 * Threat intelligence enrichment
-* Automated detection workflows
+* Detection and response automation
 * SOC / SOAR-oriented architecture
 
-### [OpsGuard Cloud](https://github.com/albertobayan/opsguard-cloud) — In Development
+### [OpsGuard Cloud](https://github.com/albertobayan/OpsGuard-Cloud)
 
-Platform for incident management, access auditing and infrastructure monitoring.
+Containerized operations and security platform for incident management, access auditing and monitoring.
 
 * FastAPI, PostgreSQL, Docker and Nginx
 * JWT authentication and role-based access control
@@ -61,13 +62,14 @@ Platform for incident management, access auditing and infrastructure monitoring.
 
 ### [Windows Server Lab](https://github.com/albertobayan/windows-server-jira-helpdesk-lab)
 
-Active Directory environment designed to simulate the infrastructure of a small organisation.
+Windows Server and Active Directory home lab simulating a small business infrastructure.
 
-* Domain Controller and Windows clients
+* Active Directory, DNS and DHCP
 * Users, groups and Organizational Units
-* NTFS permissions by department
-* Group Policies
-* Network drives and access management
+* NTFS permissions and Group Policies
+* Security auditing
+* PowerShell automation
+* Jira Service Management
 
 ### [ClusterX](https://github.com/albertobayan/TFG-Cluster-HA)
 
@@ -77,7 +79,8 @@ High-availability infrastructure project.
 * HAProxy load balancing
 * Keepalived failover
 * VPN access
-* Infrastructure and security monitoring
+* Security monitoring
+* Automated backups
 
 ## 🎓 Certifications
 
@@ -90,18 +93,9 @@ High-availability infrastructure project.
 
 * Spanish — Native
 * English — C1
-* Japanese — Learning / JLPT N5 in progress
-
-## 🎯 Currently Focused On
-
-* Blue Team & SOC Operations
-* Incident Response
-* Detection Engineering
-* Security Automation
-* Endpoint Security
-* Threat Intelligence
+* Japanese — JLPT N5 in progress
 
 ## 📫 Contact
 
-* LinkedIn: [Alberto Bayán Rodrigo](https://www.linkedin.com/in/alberto-bay%C3%A1n-rodrigo-8baa343b4/)
-* Email: [albertobayanrodrigo@gmail.com](mailto:albertobayanrodrigo@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/alberto-bay%C3%A1n-rodrigo-8baa343b4/)
+* [Email](mailto:albertobayanrodrigo@gmail.com)
