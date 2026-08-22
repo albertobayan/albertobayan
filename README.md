@@ -50,7 +50,7 @@ Defensive cybersecurity automation platform designed to simulate SOC detection, 
 * Automated detection workflows
 * SOC / SOAR-oriented architecture
 
-### [OpsGuard Cloud](https://github.com/albertobayan/opsguard-cloud)
+### [OpsGuard Cloud](https://github.com/albertobayan/opsguard-cloud) — In Development
 
 Platform for incident management, access auditing and infrastructure monitoring.
 
